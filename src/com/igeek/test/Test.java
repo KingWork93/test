@@ -6,5 +6,7 @@ public class Test {
         System.out.println("测试gggcao操作");
         System.out.println("制造冲突。。。。。。。。。。。。。。。。。。");
         System.out.println("ggg主分支");
+        System.out.println("制造冲突。。。。。。。。。。。。。。。。。。");
+        System.out.println("主分支");
     }
 }
